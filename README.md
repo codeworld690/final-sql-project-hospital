@@ -4,7 +4,8 @@ A comprehensive MySQL-based hospital management system that includes patient rec
 
 #🏥 Final SQL Project - Hospital
 ##📌 Project Overview
-This project is a comprehensive hospital database management system designed using MySQL. It efficiently manages patient records, doctor details, appointments, billing, and staff information.
+This project is a comprehensive hospital database management system designed using MySQL.
+It efficiently manages patient records, doctor details, appointments, billing, and staff information.
 
 ##🎯 Objectives
 🗂️ Efficient Data Management – Store and retrieve hospital records seamlessly.
